@@ -2,7 +2,7 @@ buildscript {
     repositories {
         maven {
             name = "forge"
-            url = "http://maven.nationsglory.fr/releases"
+            url = "https://maven.nationsglory.fr/releases"
         }
     }
     dependencies {
