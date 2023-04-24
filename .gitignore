@@ -7,3 +7,11 @@ target
 *.schematic
 build.properties
 build_number.properties
+eclipse/
+build/
+.idea/
+.gradle/
+out/
+*.iml
+*.ipr
+*.iws
